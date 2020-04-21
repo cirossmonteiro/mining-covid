@@ -1,10 +1,6 @@
 # mining-covid
 mining covid data from WHO
 
-creating and using virtual environment:
-python3 -m venv venv
-source venv/bin/activate
-
 
 Commands
 - `python -m venv venv`: create virtual environment
