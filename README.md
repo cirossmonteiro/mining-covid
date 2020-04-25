@@ -1,5 +1,5 @@
 # mining-covid
-mining covid data from WHO
+Extracting COVID data from PDFs found in WHO's website
 
 
 Commands
