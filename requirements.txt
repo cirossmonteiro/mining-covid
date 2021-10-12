@@ -48,7 +48,7 @@ numpy==1.18.1
 oauth==1.0.1
 ocrmypdf==9.5.0
 olefile==0.45.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pdfminer.six==20200104
 pexpect==4.2.1
 pikepdf==1.10.0
